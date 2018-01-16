@@ -10,5 +10,6 @@ I made 4 major breakpoints: 1024px, 1024px, 768px, and 496px.  There is no two-d
 
 I chose challenging colors, trying to go with blue and green for a golf-themed page.  I tried several different blues and greens and settled on these.  In hindsight, it was a much more challenging color palette than I used for other static comps.
 
-My version
+*********
+
 ![screenshot](assets/screenshot-2.png)
